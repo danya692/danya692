@@ -18,7 +18,7 @@
 
 ## 📂 Мои проекты
 
-### 🔧 [ProjectSite](https://github.com/danya692/test)
+### 🔧 [test](https://github.com/danya692/test)
 Веб-сайт для продажи автомобилей из Южной Кореи на Python Flask с базой данных SQLite3
 
 ### 👤 [danya692](https://github.com/danya692/danya692)
